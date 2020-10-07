@@ -9,6 +9,7 @@ public class pokemons {
     private String type;
 
 
+
     public pokemons(String name, int image, int attack, int defence, int total,String type) {
         this.name = name;
         this.image = image;
